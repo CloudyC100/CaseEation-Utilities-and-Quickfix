@@ -13,7 +13,7 @@ EaseCation is a Minecraft multiplayer game server, offering various fun game mod
 With this tool, players can conveniently resolve common issues they encounter during gameplay and enhance their gaming experience.<br>
 
 
-## 官方网站 / Official Website<br>
+## EaseCation 官方网站 / EaseCation Official Website<br>
 
 * [EaseCation](https://www.easecation.net)<br>
 
